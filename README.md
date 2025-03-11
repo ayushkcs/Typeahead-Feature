@@ -39,20 +39,6 @@
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
-
-- [Problem Statement]
-    - [Objectives]
-    - [Success Metrics]
-- [System Architecture]
-    - [Backend Components]
-    - [Frontend Components]
-- [Data Flow Explanation]
-- [Data Storage]
-- [API Endpoint]
-- [Risks and Mitigations]
-- [Future Enhancements]
-- [Conclusion]
-
 ## Problem Statement
 
 Recruiters on the Mercor team platform frequently perform similar searches for contractors, often repeating the same queries or making minor modifications to previous searches. Currently, there is no mechanism to leverage their search history, forcing recruiters to manually re-enter search terms each time. This leads to:
